@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/ede250258402549bcc084.gif">
+    <img src="https://telegra.ph/file/debb7bcf20a12625c0b8f.gif">
 </p>
 
 # Anya Cursor for Windows By Rachit Pal
