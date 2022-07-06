@@ -4,9 +4,9 @@
 
 # Anya Cursor for Windows By Rachit Pal
 
-<a href="https://drive.google.com/file/d/14oarsJNrtuw0IzWXmYbli6EUxA6wh5_O/view?usp=sharing"> <img src="https://svgur.com/i/itV.svg" />
-<a href="https://drive.google.com/file/d/14oarsJNrtuw0IzWXmYbli6EUxA6wh5_O/view?usp=sharing"> <img src="https://svgur.com/i/itd.svg" /> <br>
-<a href="https://drive.google.com/file/d/14oarsJNrtuw0IzWXmYbli6EUxA6wh5_O/view?usp=sharing"> <img src="https://svgur.com/i/isR.svg" /> </a>
+<a href="https://myanimelist.net/character/170256/Anya_Forger?q=anya%20forger&cat=character" barget="_blank"> <img src="https://svgur.com/i/itV.svg" />
+<a href="https://github.com/Rachit-Pal"> <img src="https://svgur.com/i/itd.svg" /> <br>
+<a href="https://drive.google.com/file/d/14oarsJNrtuw0IzWXmYbli6EUxA6wh5_O/view?usp=sharing" target="_blank"> <img src="https://svgur.com/i/isR.svg" /> </a>
 
 <b> Anya Cursor for Anya and Spy x Family Anime Lovers ♥️ <br> Apply this custom cursor and enjoy. </b>
 
