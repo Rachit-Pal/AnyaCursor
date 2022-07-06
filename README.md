@@ -14,7 +14,7 @@
 
 1. Go to Control Panel
 2. Search "Change how the mouse pointer look"
-3. Now Select the cursor type and change with the respective Anya custom cursor.
+3. Now Select your current cursor type and change with the Anya custom cursor, respectively.
 
 <b> Tutorial Video : Soon </b>
 
