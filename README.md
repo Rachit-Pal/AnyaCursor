@@ -20,7 +20,7 @@
 
 ### This Digital Stopwatch Repository is made by [Rachit Pal](https://www.github.com/Rachit-Pal/)
 
-### Reach Me:
+### My Social Media Links:
 
 <a href="https://t.me/SAlTAM4" target="_blank">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png">
