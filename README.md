@@ -19,3 +19,16 @@
 <b> Tutorial Video : Soon </b>
 
 ### This Digital Stopwatch Repository is made by [Rachit Pal](https://www.github.com/Rachit-Pal/)
+
+### Reach Me:
+
+<a href="https://t.me/SAlTAM4" target="_blank">
+  <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/RachitKrPal/" target="_blank">
+  <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.twitter.com/RachitKrPal/" target="_blank">
+  <img style="margin-right: 10px," width="32" height="32 "src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png"></a>
