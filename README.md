@@ -16,6 +16,8 @@
 2. Search "Change how the mouse pointer look"
 3. Now Select your current cursor type and change with the Anya custom cursor, respectively.
 
+https://user-images.githubusercontent.com/83032665/177844229-d27c4d22-3b41-4b50-b65e-b718b331b745.mp4
+
 <b> Tutorial Video : Soon </b>
 
 ### This Digital Stopwatch Repository is made by [Rachit Pal](https://www.github.com/Rachit-Pal/)
