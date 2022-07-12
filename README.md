@@ -32,5 +32,5 @@ https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.twitter.com/RachitKrPal/" target="_blank">
+<a href="https://www.twitter.com/RachitKrPal/">
   <img style="margin-right: 10px," width="32" height="32 "src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png"></a>
