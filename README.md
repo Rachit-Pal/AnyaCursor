@@ -16,7 +16,7 @@
 2. Right click on the file <b>Installer.inf</b> and click on Install
 3. Go to the Control Panel
 4. Search "Change how the mouse pointer look"
-5. Now Select Anya cursor, ash shown in image given below.
+5. Now Select Anya cursor, as shown in this [image](https://telegra.ph/file/93b45e8b8e640faa164a4.png)!
     
 https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-8814-cbc72cf6e5cd.mp4
     
