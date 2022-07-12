@@ -12,10 +12,12 @@
 
 ## How to apply this?
 
-1. Go to Control Panel
-2. Search "Change how the mouse pointer look"
-3. Now Select your current cursor type and change with the Anya custom cursor, respectively.
-
+1. Extract File
+2. Right click on the file <b>Installer.inf</b> and click on Install
+3. Go to the Control Panel
+4. Search "Change how the mouse pointer look"
+5. Now Select Anya cursor, ash shown in image given below.
+    
 https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-8814-cbc72cf6e5cd.mp4
     
 <b> Tutorial Video : Soon </b>
@@ -24,11 +26,11 @@ https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-
 
 ### My Social Media Links:
 
-<a href="https://t.me/SAlTAM4" target="_blank">
+<a href="https://t.me/SAlTAM4">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/RachitKrPal/" target="_blank">
+<a href="https://www.instagram.com/RachitKrPal/">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
 </a>&nbsp;&nbsp;
 
