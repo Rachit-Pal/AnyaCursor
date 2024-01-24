@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/MyselfRachit/">
+<a href="https://www.instagram.com/MyselfRachiit/">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
 </a>&nbsp;&nbsp;
 
