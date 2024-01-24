@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-
     
 <b> Tutorial Video : Soon </b>
 
-### This Digital Stopwatch Repository is made by [Rachit Pal](https://www.github.com/Rachit-Pal/)
+### This Repository is made by [Rachit Pal](https://www.github.com/Rachit-Pal/)
 
 ### My Social Media Links:
 
@@ -30,9 +30,9 @@ https://user-images.githubusercontent.com/83032665/177844540-ae3ca2f5-df48-4ac0-
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/RachitKrPal/">
+<a href="https://www.instagram.com/MyselfRachit/">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.twitter.com/RachitKrPal/">
+<a href="https://www.twitter.com/Render_GFX/">
   <img style="margin-right: 10px," width="32" height="32 "src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png"></a>
